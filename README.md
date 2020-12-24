@@ -1,6 +1,5 @@
 Random account generator
->> username : password
+>> outputs code - username : password
 
-# Download Instructions
-Code > Download .Zip > acc_gen.exe
->> acc_gen.py to see the code
+# CODE > DOWNLOAD .ZIP > ACC_GEN.EXE
+>> ACC_GEN.PY TO VIEW CODE
